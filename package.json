@@ -1,7 +1,7 @@
 {
   "name": "express-portfolio-site",
   "version": "1.0.0",
-  "description": "comp229 assignment2",
+  "description": "comp229assignment2",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
