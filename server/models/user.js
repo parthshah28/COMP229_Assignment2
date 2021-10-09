@@ -1,3 +1,10 @@
+/** 
+ @author Parth Shah
+ @studentID 301171805
+ @date October 7, 2021
+ @description Personal Portfolio website- Authentication
+**/
+
 // require modules for the User Model
 let mongoose = require('mongoose');
 let passportLocalMongoose = require('passport-local-mongoose');
